@@ -1,0 +1,39 @@
+/*
+Theme Name: Thema van Taurese
+Author: Taurese Usman
+Author URI: http://25487.hosts2.ma-cloud.nl/wordpress/
+Version: 1.0
+
+*/
+
+body{
+  font-family: Arial;
+  color: #333;
+  background-color: #f1ffc6;
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+a {
+color: ##b5b5b5;}
+
+.container{
+  padding: 2em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header a{
+color: #fff;
+}
+
+header {
+background: dodgerblue;
+}
+
+footer{
+  background-color: dodgerblue;
+}
